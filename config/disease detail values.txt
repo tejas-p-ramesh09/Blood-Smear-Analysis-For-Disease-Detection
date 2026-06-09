@@ -1,0 +1,20 @@
+Normal+++++++++++++++++
+Men: 4700000–6100000 million/µL
+Women: 4.2–5.4 million/µL
+Children: 4.1–5.5 million/µL
+platelets: 150000-450000
+WBC****
+Adults: 4,000 to 11,000 WBCs per microliter of blood (4.0 to 11.0 × 10⁹/L).
+Children: 5,000 to 10,000 WBCs per microliter of blood (5.0 to 10.0 × 10⁹/L).
+Newborns: 9,000 to 30,000 WBCs per microliter of blood (9.0 to 30.0 × 10⁹/L).
+Anemia+++++++++++
+RBC low values
+leukopenia+++++++
+RBC<3 million
+wbc<4 K
+platelets<100,000
+blood cancers+++++++++
+RBC<4 million
+18000<wbc<2000
+450,000>platelets<150000
+
