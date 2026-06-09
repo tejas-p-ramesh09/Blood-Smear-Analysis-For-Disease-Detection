@@ -233,7 +233,7 @@ Add screenshots inside the `assets/` folder:
 Example:
 
 ```markdown
-![Detection Output](assets/detection_output.png)
+![Detection Output](assets/detection_output.jpg)
 ```
 
 ---
